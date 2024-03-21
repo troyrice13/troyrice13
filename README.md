@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Troy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Dev student based in the Silicon Valley</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Dev at Bloomtech University**
 
